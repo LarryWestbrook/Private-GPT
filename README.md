@@ -1,1 +1,1 @@
-# Private-GPT
+# Private GPT
