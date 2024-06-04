@@ -34,7 +34,6 @@ ollama pull nomic-embed-text
 PGPT_PROFILES=ollama make run
 
 # Configurar entorno virtual (opcional si ya configuraste antes)
-cd ..
 git clone https://github.com/imartinez/privateGPT
 python3 -m venv privateGPT
 source privateGPT/bin/activate
