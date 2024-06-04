@@ -18,6 +18,7 @@
 - [PrivateGPT](https://docs.privategpt.dev/overview/welcome/introduction)
 - [Novaspirit Tech](https://www.youtube.com/@NovaspiritTech)
 - [Zylon AI](https://github.com/zylon-ai/private-gpt)
+
 ## Autor
 
 - [Larry Reynoso](https://github.com/LarryWestbrook)
