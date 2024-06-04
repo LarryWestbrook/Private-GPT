@@ -121,5 +121,3 @@ set PGPT_PROFILES=ollama make run
 
 La interfaz de usuario estará disponible en `http://localhost:8001`
 
-
-$env:CMAKE_ARGS='-DLLAMA_CUBLAS=on'; poetry run pip install --force-reinstall --no-cache-dir llama-cpp-python
