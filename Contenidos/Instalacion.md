@@ -121,4 +121,4 @@ set PGPT_PROFILES=ollama make run
 
 La interfaz de usuario estará disponible en `http://localhost:8001`
 
-![image](/imagenes/Captura de pantalla 2024-06-06 093331.png)
+![image](/imagenes/captura.png)
